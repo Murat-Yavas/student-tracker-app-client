@@ -1,10 +1,26 @@
-# Getting Started with Create React App
+# Student Tracker App - Client
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic tracker app created with React.js and Bootstrap.
+To see server side codes click here.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- Technologies
+- API
+- Install
+
+## Technologies
+
+- [React.js](https://react.dev/)
+- [Bootstrap 5](https://react-bootstrap.netlify.app/)
+- [Redux](https://redux.js.org/)
+
+## Install
+
+```
+$ npm install
+$ npm start
+```
 
 ### `npm start`
 
