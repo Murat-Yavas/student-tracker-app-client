@@ -1,7 +1,7 @@
 # Student Tracker App - Client
 
 A basic tracker app created with React.js and Bootstrap.
-To see server side codes click here.
+To see server side codes click here. [To see server side codes click here.](https://github.com/Murat-Yavas/student-tracker-app-server)
 
 ## Table of Contents
 
