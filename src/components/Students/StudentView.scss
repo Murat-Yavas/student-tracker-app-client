@@ -1,0 +1,33 @@
+.students-table {
+  margin-top: 1rem;
+}
+
+.info-text {
+  height: calc(100vh - 126px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.students-table td {
+}
+
+@media screen and (max-width: 768px) {
+  .table-first-name,
+  .table-last-name,
+  .table-departments {
+    display: none;
+  }
+
+  .table-button {
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    svg {
+      display: flex;
+    }
+  }
+}

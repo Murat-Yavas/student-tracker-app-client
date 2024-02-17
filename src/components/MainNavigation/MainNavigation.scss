@@ -1,0 +1,19 @@
+$color: #ffffff;
+
+.header {
+  margin-bottom: 3rem;
+}
+
+.navbar-link {
+  display: flex;
+  text-decoration: none;
+}
+
+.link-text {
+  padding: 1rem;
+}
+
+.link-text:hover,
+.link-text:focus {
+  color: $color;
+}
