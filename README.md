@@ -17,14 +17,15 @@ To see server side codes click here.
 
 ## Install
 
+$ npm install
+$ npm start
+
+```
 ## Preview
 
 ![preview](assets/1.PNG)
 ![preview](assets/2.PNG)
 
-```
-$ npm install
-$ npm start
 ```
 
 ### `npm start`
